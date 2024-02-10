@@ -374,7 +374,7 @@ main {
     flex-direction: column;
     align-items: center;
     background-color: rgb(77, 150, 168);
-    background-image: url(/assets/mobile/image-footer.jpg);
+    background-image: url(.//assets/mobile/image-footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -479,7 +479,7 @@ main {
 
     .cta-section-container {
         gap: 2rem;
-        background-image: url(/assets/tablet/image-footer.jpg);
+        background-image: url(.//assets/tablet/image-footer.jpg);
     }
 
     .cta-heading {
@@ -507,7 +507,7 @@ main {
         padding-block: 7.5rem 6.5rem;
         padding-inline: 5rem;
         gap: 8rem;
-        background-image: url(/assets/desktop/image-footer.jpg);
+        background-image: url(.//assets/desktop/image-footer.jpg);
         justify-content: center;
         text-align: unset;
     }
